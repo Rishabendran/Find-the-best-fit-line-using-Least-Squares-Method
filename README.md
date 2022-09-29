@@ -49,7 +49,7 @@ for i in range(len(X)):
 m = num/denum
 
 #find b 
-b = Y_m ean - (m * X_mean)
+b = Y_mean - (m * X_mean)
 print(m,b)
 
 #find Y_pred
